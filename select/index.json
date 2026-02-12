@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "グロテスク",
+  "base_artist": "Ken Hirai",
+  "createdAt": "2026-02-12T10:29:00.282479Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "グロテスク",
+      "artist": "SaoriRinne",
+      "has_synced": false,
+      "path": "select/01_グロテスク_SaoriRinne.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "グロテスク",
+      "artist": "Ken Hirai",
+      "has_synced": true,
+      "path": "select/02_グロテスク_Ken_Hirai.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "グロテスク",
+      "artist": "平井堅",
+      "has_synced": true,
+      "path": "select/03_グロテスク_平井堅.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "グロテスク",
+      "artist": "Detroit Metal City",
+      "has_synced": false,
+      "path": "select/04_グロテスク_Detroit_Metal_City.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "グロテスク",
+      "artist": "平井堅 feat. 安室奈美恵",
+      "has_synced": true,
+      "path": "select/05_グロテスク_平井堅_feat._安室奈美恵.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "グロテスク",
+      "artist": "デトロイト・メタル・シティ",
+      "has_synced": false,
+      "path": "select/06_グロテスク_デトロイト・メタル・シティ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グロテスク feat. 安室奈美恵",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_01_グロテスク_feat._安室奈美恵_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "グロテスク",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_02_グロテスク_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "グロテスク feat. 安室奈美恵",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_03_グロテスク_feat._安室奈美恵_平井_堅.txt"
+    }
+  ]
+}
